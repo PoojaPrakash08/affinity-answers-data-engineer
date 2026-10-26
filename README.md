@@ -20,7 +20,12 @@ bash question3/company_report.sh "https://raw.githubusercontent.com/datasets/s-a
 
 ### Submission Evidence
 
-The `submission-evidence/` folder contains screen recordings demonstrating the execution of the solutions.
+The screen recordings demonstrating the execution of each solution are available here:
+
+- **Question 1 – Python:** [Watch recording](https://drive.google.com/file/d/1J--4PT1eCZrGW90KMF52cqC3wypWuZHt/view?usp=sharing)
+- **Question 2 – SQL:** [Watch recording](https://drive.google.com/file/d/1-_eTcpzssA2UyEIStCJ0fpYbYpW5MqJj/view?usp=sharing)
+- **Question 3 – Shell Scripting:** [Watch recording](https://drive.google.com/file/d/1xPR9ijixhuTGmVyZ2UDiKp0w8vql3nzi/view?usp=sharing)
+
 
 Thank you for reviewing my submission!
 
